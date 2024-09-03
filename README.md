@@ -37,9 +37,9 @@ Additionally, Crowd-Nation includes a powerful scraping tool that aggregates eve
 
 By combining social interaction, personalized recommendations, and powerful event management tools, Crowd-Nation aims to revolutionize how people discover and experience events, creating a vibrant, interactive community.
 
-## My Expertise
+## 💾 My Expertise
 
-I am Wlankabl, a developer with a deep interest in event management platforms and community-building tools. My work often involves creating robust, scalable applications that bring people together through shared experiences. While much of my project work remains private, my focus is on developing solutions that enhance user engagement and connectivity.
+I am WlankabL, a developer with a deep interest in event management platforms and community-building tools. My work often involves creating robust, scalable applications that bring people together through shared experiences. While much of my project work remains private, my focus is on developing solutions that enhance user engagement and connectivity.
 
 ## 🛠️ Some Cool Projects
 
@@ -51,7 +51,7 @@ I am Wlankabl, a developer with a deep interest in event management platforms an
 This script automatically generates training reports based on predefined data and templates. 
 It is specifically designed to simplify the management of training records for the IHK vocational training system. 
 With configurable settings and a structured file and folder setup, the script produces PDF files with essential information such as start and end dates, trainee name, department, and report number automatically filled in. 
-The user only needs to manually input fields like "Betriebliche Tätigkeit", "Unterweisung", and "Berufsschule" which can be done using tools like Jira and Untis "Mein Stundenplan."
+The user only needs to manually input fields like "Betriebliche Tätigkeit", "Unterweisung", and "Berufsschule," which can be done using tools like Jira and Untis "Mein Stundenplan."
 
 ### [RL-Shop-Tracking](https://github.com/WlanKabL/RL-Shop-Tracking)
 **Tech Stack:** Node.JS
