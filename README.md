@@ -1,6 +1,6 @@
 # 👋 Hey, I'm WlankabL!  
 
-Welcome to my GitHub corner! I'm Philipp Stecher, a passionate Full-Stack Developer with a deep love for all things code, motorcycles, and music. My journey in the world of software development is driven by curiosity, continuous learning, and the excitement of creating impactful digital solutions.  
+Welcome to my GitHub corner! I'm WlanKabL, a passionate Full-Stack Developer with a deep love for all things code, motorcycles, and music. My journey in the world of software development is driven by curiosity, continuous learning, and the excitement of creating impactful digital solutions.  
 
 ![Developer at work](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
@@ -28,12 +28,9 @@ Here's a breakdown of the technologies I regularly work with, forming the core o
 - **Express**: A minimal web framework for Node.js that helps me efficiently build APIs and handle server-side logic.  
 - **C# & .NET**: My go-to for building enterprise-level applications. I leverage the power of C# and .NET to create robust, scalable systems, often in environments where performance and reliability are critical.  
 
-### **Other Languages:**  
-- **C++**, **PHP**, **C**, **Python**: These languages are in my toolkit for various use cases, from scripting to lower-level system development. I apply them when performance optimization or specialized use cases are required.  
-
 ### **Databases:**  
-- **MongoDB**: For NoSQL database needs, especially when working with large-scale, unstructured data.  
-- **MySQL & PostgreSQL**: I use these relational databases for structured data storage, with a focus on complex queries and transactions.  
+- **MySQL**: My preferred relational database for structured data, especially when working with complex queries and transactions.  
+- **SurrealDB**: I use SurrealDB for handling NoSQL data models, particularly when working on projects that require flexibility in data structure and scalability.  
 
 ### **Tools & DevOps:**  
 - **Visual Studio Code**: My primary code editor, with extensive customization and extensions.  
@@ -41,7 +38,7 @@ Here's a breakdown of the technologies I regularly work with, forming the core o
 - **GitLab CI**: For automating builds, tests, and deployments in my CI/CD pipeline.  
 - **Portainer**: A tool I use for managing Docker containers with a simple and intuitive UI.  
 - **Docker**: Containerization for ensuring that applications run smoothly across different environments.  
-- **Let's Encrypt**: For free and automated SSL certification to secure web applications.  
+- **Let's Encrypt**: I use Let's Encrypt to secure my web applications with automated SSL certificates.  
 - **Domain and DNS Management**: I manage domain registrations and DNS settings for various projects.  
 - **Git**: Version control to manage my code and collaborate with teams efficiently.  
 - **Apache2 & nginx**: Web server setup and management, making sure that deployments are optimized and secure.  
